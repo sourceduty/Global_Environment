@@ -20,4 +20,16 @@ Designing for the transformation of waste materials involves a comprehensive app
 
 #
 
+![Old PCs](https://github.com/user-attachments/assets/32a00abc-23bb-4193-8d13-94d2bdb01cd0)
+
+[Old PC Project](https://chatgpt.com/g/g-6772720d3a2081919c55ff5b808c67bc-old-pc-project) was made to help users creatively and sustainably transform old PC cases into new and imaginative projects. Whether you're an artist, engineer, or hobbyist, it guides you through repurposing outdated computer towers into practical or decorative items such as mini-greenhouses, custom furniture, art installations, or even entirely new tech builds. It offers detailed advice on cleaning, dismantling, assessing case structure, and utilizing tools like paints, LEDs, drills, and 3D-printed parts to modify and personalize each project. By focusing on step-by-step multiple-choice questions, it ensures an organized and interactive experience tailored to your goals, turning e-waste into unique, functional works of art or utility.
+
+#
+
+![Oil & Gas Sim](https://github.com/user-attachments/assets/51f0cabe-4837-4d22-b06e-dbf1e321edcb)
+
+[Oil & Gas Sim]() is a custom GPT made to support oil and gas professionals in exploring, modeling, and optimizing hydrocarbon extraction. It integrates geophysical, geological, and engineering data to build reservoir models, interpret seismic and well log data, and simulate production outcomes. The tool aids in field development planning, enhanced oil recovery (EOR) strategies, and scenario-based decision-making while accounting for uncertainties and economic feasibility. It also keeps up with industry trends and regulatory changes, offering technical insights tailored to geoscientists, reservoir engineers, and operations managers to improve extraction efficiency and sustainability. 
+
+#
+
 [Wildlife Animals](https://github.com/sourceduty/Wildlife_Animals)
