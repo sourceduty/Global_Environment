@@ -4,6 +4,8 @@ An [environmental model](https://chatgpt.com/g/g-675e5454a434819187f30d5f19ee80e
 
 [Forest Environment](https://chatgpt.com/g/g-677297404c9081918647cf537cc54e0d-forest-environment) is a custom GPT made to support efforts in restoring and protecting forest ecosystems from deforestation and fire. It provides expert guidance on sustainable land management, reforestation with native species, erosion control, and habitat restoration. It also emphasizes the importance of robust policies to combat illegal logging, promotes sustainable alternatives like agroforestry, and advises on fire prevention through techniques such as firebreaks and early warning systems. Engaging communities through education and participation is central to its approach, ensuring long-term resilience and ecological balance.
 
+Also, [Environmental Impact](https://chatgpt.com/g/g-67737309073c8191a10ea735bc79f492-environmental-impact) is a custom GPT developed to research, develop, and simulate models that assess how various human activities and natural phenomena affect the environment over time. It analyzes data related to climate change, pollution, biodiversity loss, and resource depletion, pulling from scientific literature, satellite imagery, and field studies. The GPT constructs and runs simulations to forecast potential environmental impacts under different scenarios, such as changes in policy, industry practices, or natural events. These simulations help guide sustainable decision-making by providing actionable insights for policymakers, environmental organizations, and other stakeholders.
+
 #
 
 ![Small-Scale World](https://github.com/user-attachments/assets/167158d6-6083-498f-af88-bd4046a8aedd)
