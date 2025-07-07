@@ -45,3 +45,7 @@ Designing for the transformation of waste materials involves a comprehensive app
 [Wildlife Animals](https://github.com/sourceduty/Wildlife_Animals)
 <br>
 [Control Environment](https://chatgpt.com/g/g-678e706de7208191a42e3678b7c78083-control-environment)
+<br>
+[Environment Airspace](https://chatgpt.com/g/g-683b877eb8988191977ad48a90f03f6b-environment-airspace)
+<br>
+[Environment Analysis](https://chatgpt.com/g/g-685db4012fe88191bf27203c0e77a2cd-environment-analysis)
