@@ -53,3 +53,5 @@ Designing for the transformation of waste materials involves a comprehensive app
 [Environmental Architect](https://chatgpt.com/g/g-685f840c392081918d4ab23fb75ef6d6-environmental-architect)
 <br>
 [Environment Perfect](https://chatgpt.com/g/g-6862222e4c408191a3b866c8cca04410-environment-perfect)
+<br>
+[Computational Environmental Science](https://chatgpt.com/g/g-p9LtBM7zP-computational-environmental-science)
